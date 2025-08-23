@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/arc.png</file>
+        <file>resources/chord.png</file>
+        <file>resources/ConvexPloygon.png</file>
+        <file>resources/ellipse.png</file>
+        <file>resources/erase.png</file>
+        <file>resources/fillpath.png</file>
+        <file>resources/fillrect.png</file>
+        <file>resources/line.png</file>
+        <file>resources/lines.png</file>
+        <file>resources/multipoints.png</file>
+        <file>resources/path.png</file>
+        <file>resources/pie.png</file>
+        <file>resources/point.png</file>
+        <file>resources/polygon.png</file>
+        <file>resources/polyline.png</file>
+        <file>resources/rect.png</file>
+        <file>resources/roundrect.png</file>
+        <file>resources/text.png</file>
+        <file>resources/tupian.png</file>
+        <file>resources/tupix.png</file>
+    </qresource>
+</RCC>
